@@ -192,20 +192,20 @@ Inspired by the need for clean, organized file systems.<br>
 Quick Start Guide:<br>
 Windows Users<br>
 powershell# Download the script<br>
-# Open PowerShell in your Downloads folder<br>
+#Open PowerShell in your Downloads folder<br>
 
-# Test it first<br>
+#Test it first<br>
 python softnexis_task01.py . --dry-run<br>
 
-# If it looks good, organize!<br>
+#If it looks good, organize!<br>
 python softnexis_task01.py . <br>
 
 Linux/macOS Users:<br><br>
-# Download the script<br><br>
-# Open terminal in your Downloads folder<br>
+#Download the script<br><br>
+#Open terminal in your Downloads folder<br>
 
-# Test it first<br>
+#Test it first<br>
 python3 softnexis_task01.py . --dry-run<br>
 
-# If it looks good, organize!<br>
+#If it looks good, organize!<br>
 python3 softnexis_task01.py .<br>
