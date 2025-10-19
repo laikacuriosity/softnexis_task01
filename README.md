@@ -24,7 +24,7 @@ cd file-organizer
 
 2. Simply download the script
 
-wget https://raw.githubusercontent.com/yourusername/file-organizer/main/softnexis_task01.py
+wget https://raw.githubusercontent.com/laikacuriosity/file-organizer/main/softnexis_task01.py
 
 3. To make it executable (Linux/macOS)<br>
 chmod +x softnexis_task01.py<br>
